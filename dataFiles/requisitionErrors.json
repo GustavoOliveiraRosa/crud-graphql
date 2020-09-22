@@ -1,5 +1,6 @@
 [
     {
-        "status": "Requisição Invlálida"
+        "status": "Requisição Invlálida",
+        "motivo": "Esta é um GRAPHQL com apenas um endpoint."
     }
 ]
